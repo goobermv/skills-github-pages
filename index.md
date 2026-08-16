@@ -1,3 +1,8 @@
 ---
-title: Welcome to my blog!
+title: Personal Blog!
 ---
+
+# Main Interests
+- Golang backend developement
+- System design
+- Data structures and algorithms
